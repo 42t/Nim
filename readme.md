@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" height="28px"/> Nim [![Build Status][badge-nim-travisci]][nim-travisci]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F42t%2FNim.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F42t%2FNim?ref=badge_shield)
 
 This repository contains the Nim compiler, Nim's stdlib, tools and documentation.
 For more information about Nim, including downloads and documentation for
@@ -204,3 +205,6 @@ Copyright © 2006-2017 Andreas Rumpf, all rights reserved.
 [badge-nim-bitcoin]: https://img.shields.io/badge/bitcoin-1BXfuKM2uvoD6mbx4g5xM3eQhLzkCK77tJ-D69134.svg?style=flat-square
 [pull-request-instructions]: https://help.github.com/articles/using-pull-requests/
 [nim-wiki]: https://github.com/nim-lang/Nim/wiki
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F42t%2FNim.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F42t%2FNim?ref=badge_large)
